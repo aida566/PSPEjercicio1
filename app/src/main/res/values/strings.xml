@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PSPEjercicio1</string>
+    <string name="bt1">Iniciar proceso</string>
+    <string name="bt2">Interrumpir proceso</string>
+</resources>
